@@ -147,7 +147,7 @@ Google Dorks of Live Webcams, CCTV etc. (from d4msec) https://d4msec.wordpress.c
 <h2>Backlink dorks</h2> (SEO Terminology)
 <i>Universal for Google, Bing etc</i></br>
 List https://github.com/alfazzafashion/Backlink-dorks</br>
-Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html</br>
+Explanation https://www.techywebtech.com/2021/08/backlink-dorks.html</br>https://www.bytespot.live/2025/02/backlink-dorks.html
 1150 dorks for forum hunting https://www.blackhatworld.com/seo/get-backlinks-yourself-1150-dorks-for-forum-hunting.380843/
 
 <a name="tokendorks"></a>
